@@ -3,6 +3,8 @@
 
  An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application uses MongoDB, Express, Node, and Moment.  
 
+ ![socialnetwork](https://user-images.githubusercontent.com/72768374/116823983-40a02280-ab4d-11eb-848f-f9bd4da62f85.gif)
+
 ## Table of Contents
   * [User Story](#user-story)
   * [Walkthrough Video](#walktrhough-video)
