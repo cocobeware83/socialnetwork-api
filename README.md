@@ -7,7 +7,7 @@
 
 ## Table of Contents
   * [User Story](#user-story)
-  * [Walkthrough Video](#walktrhough-video)
+  * [Walkthrough Video](#walkthrough-video)
   * [Installation](#installation)
   * [Technology Used](#technology-used)
   * [License](#license)
